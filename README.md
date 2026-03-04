@@ -4,6 +4,8 @@
 
 - [Python notebook](Python_analysis/JimenezLopez_DiegoEnrique_DA201_Assignment_Notebook.ipynb)
 - [Full analysis with outputs](Python_analysis/JimenezLopez_DiegoEnrique_DA201_Assignment_Notebook.pdf)
+- [Technical report]
+(Technical_project/JimenezLopez_DiegoEnrique_LSEDA201_technical_report.pdf)
 
 Python Data Analysis project as part of the LSE Data Analytics using Python. 
 
@@ -19,8 +21,5 @@ Method:
 
 Findings: 
 
-Repository structure: 
-The Python_analysis folder contains both the ipynb Python file and the full pdf with code and outputs: 
-[Full code and outputs](Python_analysis/JimenezLopez_DiegoEnrique_DA201_Assignment_Notebook.pdf)
 
 
