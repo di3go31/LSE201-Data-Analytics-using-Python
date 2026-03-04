@@ -49,4 +49,4 @@ Python
 pandas  
 NumPy  
 matplotlib  
-Jupyter Notebook
+seaborn
